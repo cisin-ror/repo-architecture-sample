@@ -1,0 +1,1 @@
+# repo-architecture-sample
