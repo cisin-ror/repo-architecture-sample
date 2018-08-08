@@ -1,5 +1,1 @@
-module DataBaseStore
-  module Models
-    class Product < ActiveRecord::Base; end
-  end
-end
+class Product < ActiveRecord::Base; end
